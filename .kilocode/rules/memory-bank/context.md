@@ -86,3 +86,4 @@ export async function GET() {
 |------|---------|
 | Initial | Template created with base setup |
 | 2026-02-21 | Built FocusIQ — full multi-page attention span website with DAFA test |
+| 2026-02-22 | Removed emoji icons (replaced with SVG), removed hero badge text, removed pulse-glow effect, added 3 Unsplash images to home page |
